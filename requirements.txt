@@ -1,0 +1,23 @@
+# Core Data Processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning
+scikit-learn==1.5.1
+
+# Visualization
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Explainable AI
+shap==0.46.0
+
+# App Deployment
+streamlit==1.37.0
+
+# Model Saving
+joblib==1.4.2
+
+# Optional (better performance & utilities)
+scipy==1.13.1
+tqdm==4.66.4
